@@ -6,18 +6,18 @@ namespace Parcial.Edificio
 {
     public class Edificio
     {
+        #region Propiedades
         public static List<Salon> listSalones = new List<Salon>();
         //list<Salones> listSalones = new List<Salones>();
-        public int TiempoAbierto { get; set; }
+        public int TiempoAbierto{ get; set; }
 
-        public int TiempoLuzOn { get; set; }
+        public int TiempoLuzOn{ get; set; }
+        public int TiempoLuzOff{ get; set; }
 
-        public int TiempoLuzOff { get; set; }
-
-        public int TemperaturaAc { get; set; }
-
+        public int TemperaturaAc{ get; set; }
+        #endregion Propiedades
         public Salon Sal = null; // Propiedad para la agregacion
-
+        
         public Edificio(List<Salon> listSalones, int _tiempoAbierto, int _tiempoLuzOn, int _tiempoLuzOff, int _temperaturaAc)
         {
             TiempoAbierto = _tiempoAbierto = 5;

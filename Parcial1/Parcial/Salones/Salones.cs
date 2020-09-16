@@ -22,7 +22,7 @@ namespace Parcial.Salones
 
         public Reserva reserva1 = null;
 
-       /* public Salon( bool _luzSalon, int _tempSalon, bool _habilitado, bool _abierto, bool _ac, string NombreSalon,  List<Reserva> _listReserva, string _nombreSalon){
+       /*public Salon( bool _luzSalon, int _tempSalon, bool _habilitado, bool _abierto, bool _ac, string NombreSalon,  List<Reserva> _listReserva, string _nombreSalon){
             this.LuzSalon = _luzSalon;
             this.TempSalon =_tempSalon;
             this.Habilitado = _habilitado;
@@ -30,8 +30,7 @@ namespace Parcial.Salones
             this.Ac = _ac;
             this.NombreSalon = _nombreSalon;
             listReservas = _listReserva;
-        }
-*/
+        }*/
         void MostrarReservados(){
 
             System.Collections.IList list = listReservas;
