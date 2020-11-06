@@ -1,0 +1,44 @@
+E:/Repo/U/POO 20202/linq/bin/Debug/netcoreapp3.1/linq.exe
+E:/Repo/U/POO 20202/linq/bin/Debug/netcoreapp3.1/linq.deps.json
+E:/Repo/U/POO 20202/linq/bin/Debug/netcoreapp3.1/linq.runtimeconfig.json
+E:/Repo/U/POO 20202/linq/bin/Debug/netcoreapp3.1/linq.runtimeconfig.dev.json
+E:/Repo/U/POO 20202/linq/bin/Debug/netcoreapp3.1/linq.dll
+E:/Repo/U/POO 20202/linq/bin/Debug/netcoreapp3.1/linq.pdb
+E:/Repo/U/POO 20202/linq/obj/Debug/netcoreapp3.1/linq.csprojAssemblyReference.cache
+E:/Repo/U/POO 20202/linq/obj/Debug/netcoreapp3.1/linq.AssemblyInfoInputs.cache
+E:/Repo/U/POO 20202/linq/obj/Debug/netcoreapp3.1/linq.AssemblyInfo.cs
+E:/Repo/U/POO 20202/linq/obj/Debug/netcoreapp3.1/linq.csproj.CoreCompileInputs.cache
+E:/Repo/U/POO 20202/linq/obj/Debug/netcoreapp3.1/linq.dll
+E:/Repo/U/POO 20202/linq/obj/Debug/netcoreapp3.1/linq.pdb
+E:/Repo/U/POO 20202/linq/obj/Debug/netcoreapp3.1/linq.genruntimeconfig.cache
+E:/Repo/U/POO 20202/linq/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+E:/Repo/U/POO 20202/linq/obj/Debug/netcoreapp3.1/linq.csproj.CopyComplete
+E:/Clases 2020-2/POO/Parcial2/bin/Debug/netcoreapp3.1/linq.exe
+E:/Clases 2020-2/POO/Parcial2/bin/Debug/netcoreapp3.1/linq.deps.json
+E:/Clases 2020-2/POO/Parcial2/bin/Debug/netcoreapp3.1/linq.runtimeconfig.json
+E:/Clases 2020-2/POO/Parcial2/bin/Debug/netcoreapp3.1/linq.runtimeconfig.dev.json
+E:/Clases 2020-2/POO/Parcial2/bin/Debug/netcoreapp3.1/linq.dll
+E:/Clases 2020-2/POO/Parcial2/bin/Debug/netcoreapp3.1/linq.pdb
+E:/Clases 2020-2/POO/Parcial2/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+E:/Clases 2020-2/POO/Parcial2/obj/Debug/netcoreapp3.1/linq.csprojAssemblyReference.cache
+E:/Clases 2020-2/POO/Parcial2/obj/Debug/netcoreapp3.1/linq.AssemblyInfoInputs.cache
+E:/Clases 2020-2/POO/Parcial2/obj/Debug/netcoreapp3.1/linq.AssemblyInfo.cs
+E:/Clases 2020-2/POO/Parcial2/obj/Debug/netcoreapp3.1/linq.csproj.CoreCompileInputs.cache
+E:/Clases 2020-2/POO/Parcial2/obj/Debug/netcoreapp3.1/linq.csproj.CopyComplete
+E:/Clases 2020-2/POO/Parcial2/obj/Debug/netcoreapp3.1/linq.dll
+E:/Clases 2020-2/POO/Parcial2/obj/Debug/netcoreapp3.1/linq.pdb
+E:/Clases 2020-2/POO/Parcial2/obj/Debug/netcoreapp3.1/linq.genruntimeconfig.cache
+/Users/nicolemolineros/Downloads/Parcial2Observer/obj/Debug/netcoreapp3.1/linq.csprojAssemblyReference.cache
+/Users/nicolemolineros/Downloads/Parcial2Observer/obj/Debug/netcoreapp3.1/linq.AssemblyInfoInputs.cache
+/Users/nicolemolineros/Downloads/Parcial2Observer/obj/Debug/netcoreapp3.1/linq.AssemblyInfo.cs
+/Users/nicolemolineros/Downloads/Parcial2Observer/obj/Debug/netcoreapp3.1/linq.csproj.CoreCompileInputs.cache
+/Users/nicolemolineros/Downloads/Parcial2Observer/obj/Debug/netcoreapp3.1/linq.dll
+/Users/nicolemolineros/Downloads/Parcial2Observer/obj/Debug/netcoreapp3.1/linq.pdb
+/Users/nicolemolineros/Downloads/Parcial2Observer/bin/Debug/netcoreapp3.1/linq.deps.json
+/Users/nicolemolineros/Downloads/Parcial2Observer/bin/Debug/netcoreapp3.1/linq.runtimeconfig.json
+/Users/nicolemolineros/Downloads/Parcial2Observer/bin/Debug/netcoreapp3.1/linq.runtimeconfig.dev.json
+/Users/nicolemolineros/Downloads/Parcial2Observer/bin/Debug/netcoreapp3.1/linq.dll
+/Users/nicolemolineros/Downloads/Parcial2Observer/bin/Debug/netcoreapp3.1/linq.pdb
+/Users/nicolemolineros/Downloads/Parcial2Observer/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/nicolemolineros/Downloads/Parcial2Observer/obj/Debug/netcoreapp3.1/linq.csproj.CopyComplete
+/Users/nicolemolineros/Downloads/Parcial2Observer/obj/Debug/netcoreapp3.1/linq.genruntimeconfig.cache
